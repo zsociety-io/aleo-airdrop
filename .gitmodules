@@ -1,0 +1,3 @@
+[submodule "programs/aleo-standard-programs"]
+	path = programs/aleo-standard-programs
+	url = https://github.com/demox-labs/aleo-standard-programs
